@@ -2,4 +2,25 @@ a {
     font-size: 20px !important;
     width: 400px;
     border-radius: 30px !important;
+    cursor: pointer;
+    color: white;
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+}
+
+#status {
+    font-size: 18px;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+a:hover{
+    color: red !important;
 }
